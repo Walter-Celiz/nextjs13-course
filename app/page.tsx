@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { Navigator } from "../components";
 import { Routes } from "../models";
-import Mustachy from "../public/images/mustachy_.png";
+import Mustachy from "../public/images/mustachy.jpg";
 import { mustachyBlur } from "./models";
 
 function App() {
